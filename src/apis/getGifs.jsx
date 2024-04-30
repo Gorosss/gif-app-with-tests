@@ -1,6 +1,10 @@
 
+import dotenv from 'dotenv'
 
-const API_KEY = 'RLSlcsBfa7j7EKzzKbeEqHbYMMXqNPG2';
+dotenv.config();
+
+
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 export const getGifs = async( category ) => {
 
