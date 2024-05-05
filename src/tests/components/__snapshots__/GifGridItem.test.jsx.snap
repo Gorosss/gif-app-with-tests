@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem /> debe de mostrar el componente correctamente 1`] = `ShallowWrapper {}`;
+
+exports[`Test <GifGridItem /> It must show the component correctly 1`] = `ShallowWrapper {}`;
